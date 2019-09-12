@@ -7,6 +7,6 @@
   "author": "ZedenNn <gael.codev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "discordjs/discord.js"
+  "discord.js": "discordjs/discord.js"
   }
 }
